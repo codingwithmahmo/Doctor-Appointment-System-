@@ -4,4 +4,4 @@ Project for Database Systems and Software Requirement Engineering
 
   - Uzair Baig
   - Mehboob Rasheed
-  - Mahmood Khan
+
